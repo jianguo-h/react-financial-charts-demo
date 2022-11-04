@@ -1,0 +1,269 @@
+[
+  {
+    "date": 1661270400,
+    "accumulate_unit_net_value": "0.997",
+    "a1000_index": 1,
+    "a1000_original_index": 7039.41
+  },
+  {
+    "date": 1661356800,
+    "accumulate_unit_net_value": "0.991",
+    "a1000_index": 0.9967184749858299,
+    "a1000_original_index": 7016.31
+  },
+  {
+    "date": 1661443200,
+    "accumulate_unit_net_value": "0.983",
+    "a1000_index": 0.9915859425718917,
+    "a1000_original_index": 6980.18
+  },
+  {
+    "date": 1661702400,
+    "accumulate_unit_net_value": "0.996",
+    "a1000_index": 0.9974287617854338,
+    "a1000_original_index": 7021.31
+  },
+  {
+    "date": 1661788800,
+    "accumulate_unit_net_value": "0.989",
+    "a1000_index": 0.9910944241065658,
+    "a1000_original_index": 6976.72
+  },
+  {
+    "date": 1661875200,
+    "accumulate_unit_net_value": "0.957",
+    "a1000_index": 0.9589923019116658,
+    "a1000_original_index": 6750.74
+  },
+  {
+    "date": 1661961600,
+    "accumulate_unit_net_value": "0.958",
+    "a1000_index": 0.9542134923239306,
+    "a1000_original_index": 6717.1
+  },
+  {
+    "date": 1662048000,
+    "accumulate_unit_net_value": "0.975",
+    "a1000_index": 0.9626985784319992,
+    "a1000_original_index": 6776.83
+  },
+  {
+    "date": 1662307200,
+    "accumulate_unit_net_value": "0.979",
+    "a1000_index": 0.9647243163844698,
+    "a1000_original_index": 6791.09
+  },
+  {
+    "date": 1662393600,
+    "accumulate_unit_net_value": "0.994",
+    "a1000_index": 0.9829872105758863,
+    "a1000_original_index": 6919.65
+  },
+  {
+    "date": 1662480000,
+    "accumulate_unit_net_value": "1.003",
+    "a1000_index": 0.9892192669556115,
+    "a1000_original_index": 6963.52
+  },
+  {
+    "date": 1662566400,
+    "accumulate_unit_net_value": "0.992",
+    "a1000_index": 0.9797838171096727,
+    "a1000_original_index": 6897.1
+  },
+  {
+    "date": 1662652800,
+    "accumulate_unit_net_value": "0.986",
+    "a1000_index": 0.9821249224011671,
+    "a1000_original_index": 6913.58
+  },
+  {
+    "date": 1662998400,
+    "accumulate_unit_net_value": "0.989",
+    "a1000_index": 0.9807753774819197,
+    "a1000_original_index": 6904.08
+  },
+  {
+    "date": 1663084800,
+    "accumulate_unit_net_value": "0.98",
+    "a1000_index": 0.9701892630206226,
+    "a1000_original_index": 6829.56
+  },
+  {
+    "date": 1663171200,
+    "accumulate_unit_net_value": "0.949",
+    "a1000_index": 0.9403046562140861,
+    "a1000_original_index": 6619.19
+  },
+  {
+    "date": 1663257600,
+    "accumulate_unit_net_value": "0.932",
+    "a1000_index": 0.9207078434130133,
+    "a1000_original_index": 6481.24
+  },
+  {
+    "date": 1663516800,
+    "accumulate_unit_net_value": "0.921",
+    "a1000_index": 0.9091386920210643,
+    "a1000_original_index": 6399.8
+  },
+  {
+    "date": 1663603200,
+    "accumulate_unit_net_value": "0.937",
+    "a1000_index": 0.9208342744633429,
+    "a1000_original_index": 6482.13
+  },
+  {
+    "date": 1663689600,
+    "accumulate_unit_net_value": "0.938",
+    "a1000_index": 0.920616926702664,
+    "a1000_original_index": 6480.6
+  },
+  {
+    "date": 1663776000,
+    "accumulate_unit_net_value": "0.939",
+    "a1000_index": 0.9215644492933357,
+    "a1000_original_index": 6487.27
+  },
+  {
+    "date": 1663862400,
+    "accumulate_unit_net_value": "0.917",
+    "a1000_index": 0.9040075801807255,
+    "a1000_original_index": 6363.68
+  },
+  {
+    "date": 1664121600,
+    "accumulate_unit_net_value": "0.912",
+    "a1000_index": 0.8926302062246695,
+    "a1000_original_index": 6283.59
+  },
+  {
+    "date": 1664208000,
+    "accumulate_unit_net_value": "0.934",
+    "a1000_index": 0.9105564244730737,
+    "a1000_original_index": 6409.78
+  },
+  {
+    "date": 1664294400,
+    "accumulate_unit_net_value": "0.905",
+    "a1000_index": 0.8823338887776105,
+    "a1000_original_index": 6211.11
+  },
+  {
+    "date": 1664380800,
+    "accumulate_unit_net_value": "0.908",
+    "a1000_index": 0.884844042327411,
+    "a1000_original_index": 6228.78
+  },
+  {
+    "date": 1664467200,
+    "accumulate_unit_net_value": "0.891",
+    "a1000_index": 0.8700814414844426,
+    "a1000_original_index": 6124.86
+  },
+  {
+    "date": 1665331200,
+    "accumulate_unit_net_value": "0.875",
+    "a1000_index": 0.8501422704459607,
+    "a1000_original_index": 5984.5
+  },
+  {
+    "date": 1665417600,
+    "accumulate_unit_net_value": "0.880",
+    "a1000_index": 0.8548614159425293,
+    "a1000_original_index": 6017.72
+  },
+  {
+    "date": 1665504000,
+    "accumulate_unit_net_value": "0.909",
+    "a1000_index": 0.8797115099134728,
+    "a1000_original_index": 6192.65
+  },
+  {
+    "date": 1665590400,
+    "accumulate_unit_net_value": "0.919",
+    "a1000_index": 0.8881738668439543,
+    "a1000_original_index": 6252.22
+  },
+  {
+    "date": 1665676800,
+    "accumulate_unit_net_value": "0.943",
+    "a1000_index": 0.9100847940381367,
+    "a1000_original_index": 6406.46
+  },
+  {
+    "date": 1665936000,
+    "accumulate_unit_net_value": "0.954",
+    "a1000_index": 0.9194591592193095,
+    "a1000_original_index": 6472.45
+  },
+  {
+    "date": 1666022400,
+    "accumulate_unit_net_value": "0.961",
+    "a1000_index": 0.924580327044454,
+    "a1000_original_index": 6508.5
+  },
+  {
+    "date": 1666108800,
+    "accumulate_unit_net_value": "0.954",
+    "a1000_index": 0.9178539110522046,
+    "a1000_original_index": 6461.15
+  },
+  {
+    "date": 1666195200,
+    "accumulate_unit_net_value": "0.954",
+    "a1000_index": 0.9133862070826958,
+    "a1000_original_index": 6429.7
+  },
+  {
+    "date": 1666281600,
+    "accumulate_unit_net_value": "0.956",
+    "a1000_index": 0.9137598179392875,
+    "a1000_original_index": 6432.33
+  },
+  {
+    "date": 1666540800,
+    "a1000_index": 0.906102926239557,
+    "a1000_original_index": 6378.43
+  },
+  {
+    "date": 1666627200,
+    "a1000_index": 0.9028853270373511,
+    "a1000_original_index": 6355.78
+  },
+  {
+    "date": 1666713600,
+    "a1000_index": 0.9221923428241855,
+    "a1000_original_index": 6491.69
+  },
+  {
+    "date": 1666800000,
+    "a1000_index": 0.9179192574377681,
+    "a1000_original_index": 6461.61
+  },
+  {
+    "date": 1666886400,
+    "a1000_index": 0.8864279818905278,
+    "a1000_original_index": 6239.93
+  },
+  {
+    "date": 1667145600,
+    "a1000_index": 0.8939129841847542,
+    "a1000_original_index": 6292.62
+  },
+  {
+    "date": 1667232000,
+    "a1000_index": 0.9148238275650942,
+    "a1000_original_index": 6439.82
+  },
+  {
+    "date": 1667318400,
+    "a1000_index": 0.9268546653767858,
+    "a1000_original_index": 6524.51
+  },
+  {
+    "date": 1667404800,
+    "a1000_index": 0.9328681380968008,
+    "a1000_original_index": 6566.8413
+  }
+]
